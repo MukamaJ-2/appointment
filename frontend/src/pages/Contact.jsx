@@ -20,7 +20,7 @@ const Contact = () => {
           <p className="text-gray-500">earn more about our teams and job opening</p>
           <button className="border border-black px-8 py-4 text-sm hover:bg-black hover:text-white transition-all duration-500 ">Explore Jobs</button>
         </div>
-      </div>
+      </div> 
     </div>
   );
 };
